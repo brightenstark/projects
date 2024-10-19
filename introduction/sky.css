@@ -1,0 +1,92 @@
+.image{
+    
+    height: 400px;
+    width: 350px;
+    background-image: url("raj.jpg");
+    background-size: cover;
+}
+#name{
+    font-size: 3rem;
+    font-style: italic;
+    font-weight: bold;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 600px;
+    font-family: cursive;
+   
+}
+.in{
+    display: flex;
+    background-color:#222f3d ;
+   height: 700px;
+   color: white;
+}
+.intro{
+    height: 400px;
+    width: 350px;
+   
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.intro h2{
+    text-align: center;
+    font-family: cursive;
+}
+.intro h3{
+    text-align: center;
+    font-family: cursive;
+}
+.intro p{
+    text-align: center;
+    font-family: cursive;
+}
+.project{
+margin-left: 400px;
+    margin-right: 400px;
+   
+    height: 400px;
+   
+    font-family: cursive;
+    background-color: #1e2833;
+    color: white;
+   
+}
+.project h1{
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+}
+.project h2{
+    margin-left: 150px;
+    
+    font-family: cursive;
+}
+.panel{
+    background-color: #1e2833;
+    height: 1400px;
+         
+
+}
+.certificate{
+   height: 400px;
+   width: 300px;
+    
+    margin-top: 60px;
+    font-family: cursive;
+    color: whitesmoke;
+    margin-left: 500px;
+
+}
+.panel2{
+    background-color: #1e2833;
+    color: aliceblue;
+}
+.myhabbits{
+    margin-left: 450px;
+    font-family: cursive;
+    
+}
+.myhabbits h1{
+    margin-left: 100px;
+}
